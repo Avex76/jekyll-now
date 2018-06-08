@@ -56,7 +56,6 @@ published: true
     <td>Paying more attention to the detail that Python requires in order to get it right. Also, I will slow down when working, so I can get it right first time.</td>
   </tr>
 </table>
-![img_1507](https://user-images.githubusercontent.com/22681464/41156261-11d06c98-6b19-11e8-8e2c-7e5388858b58.jpeg)
-
+![img_1508](https://user-images.githubusercontent.com/22681464/41156386-932fb8ca-6b19-11e8-9592-ede5aab8f007.jpeg)
 
 
