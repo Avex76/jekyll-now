@@ -1,5 +1,5 @@
 ---
-title: Python Blog 5
+title: Python Week 5
 layout: post
 author: ozzy.johnson
 permalink: /python-blog-5/
