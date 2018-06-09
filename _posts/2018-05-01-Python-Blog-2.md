@@ -56,5 +56,7 @@ published: true
     <td>Persevere more so I don't spend too much time on one exercise.</td>
   </tr>
 </table>
+![img_1511](https://user-images.githubusercontent.com/22681464/41190852-cc4b5d20-6bdd-11e8-8885-75f20b49360e.jpeg)
+![img_1512](https://user-images.githubusercontent.com/22681464/41190854-d1125764-6bdd-11e8-80b0-eb1140ad6504.jpeg)
 
 
