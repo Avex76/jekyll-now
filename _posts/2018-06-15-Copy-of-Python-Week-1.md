@@ -56,5 +56,6 @@ published: true
     <td>Pay more attention to the specific detail Python requires to get right.</td>
   </tr>
 </table>
+![img_1533](https://user-images.githubusercontent.com/22681464/41476724-4927a020-70ba-11e8-81b6-69c8520d467c.jpeg)
 
 
