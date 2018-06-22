@@ -56,5 +56,6 @@ published: true
     <td>Stay much more focused on my own work, and not on other people's.</td>
   </tr>
 </table>
+![img_1553](https://user-images.githubusercontent.com/22681464/41785393-65e3e8c4-763a-11e8-869d-22a66d7ed4c2.jpeg)
 
 
